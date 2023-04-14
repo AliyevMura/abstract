@@ -1,0 +1,15 @@
+C:\Users\lenovo\source\repos\AbstractkTask\AbstractkTask\bin\Debug\net6.0\AbstractkTask.exe
+C:\Users\lenovo\source\repos\AbstractkTask\AbstractkTask\bin\Debug\net6.0\AbstractkTask.deps.json
+C:\Users\lenovo\source\repos\AbstractkTask\AbstractkTask\bin\Debug\net6.0\AbstractkTask.runtimeconfig.json
+C:\Users\lenovo\source\repos\AbstractkTask\AbstractkTask\bin\Debug\net6.0\AbstractkTask.dll
+C:\Users\lenovo\source\repos\AbstractkTask\AbstractkTask\bin\Debug\net6.0\AbstractkTask.pdb
+C:\Users\lenovo\source\repos\AbstractkTask\AbstractkTask\obj\Debug\net6.0\AbstractkTask.csproj.AssemblyReference.cache
+C:\Users\lenovo\source\repos\AbstractkTask\AbstractkTask\obj\Debug\net6.0\AbstractkTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo\source\repos\AbstractkTask\AbstractkTask\obj\Debug\net6.0\AbstractkTask.AssemblyInfoInputs.cache
+C:\Users\lenovo\source\repos\AbstractkTask\AbstractkTask\obj\Debug\net6.0\AbstractkTask.AssemblyInfo.cs
+C:\Users\lenovo\source\repos\AbstractkTask\AbstractkTask\obj\Debug\net6.0\AbstractkTask.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\AbstractkTask\AbstractkTask\obj\Debug\net6.0\AbstractkTask.dll
+C:\Users\lenovo\source\repos\AbstractkTask\AbstractkTask\obj\Debug\net6.0\refint\AbstractkTask.dll
+C:\Users\lenovo\source\repos\AbstractkTask\AbstractkTask\obj\Debug\net6.0\AbstractkTask.pdb
+C:\Users\lenovo\source\repos\AbstractkTask\AbstractkTask\obj\Debug\net6.0\AbstractkTask.genruntimeconfig.cache
+C:\Users\lenovo\source\repos\AbstractkTask\AbstractkTask\obj\Debug\net6.0\ref\AbstractkTask.dll
